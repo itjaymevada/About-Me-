@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itjaymevada
+- 👋 Hi, I’m Jay Mevada
 - 👀 I’m interested in   Ethical hacking , web-evlopement , app-devlopment. 
 - 🌱 I’m currently studying  information technology engineering.
 - 💞️ I’m looking to collaborate on ethical hacking and app devlopement.
